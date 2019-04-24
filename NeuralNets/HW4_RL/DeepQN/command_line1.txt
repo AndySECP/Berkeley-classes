@@ -1,0 +1,1 @@
+C:\Users\Andy\Anaconda3\envs\hw4\python.exe C:\Users\Andy\OneDrive\2018-2019\Courses\[CS282]NeuralNets\hw4\train_dqn.py CartPole-v0 --num_steps 100000
